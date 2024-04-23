@@ -1,0 +1,2 @@
+# shellbutsmaller
+Recreating bash behavior
